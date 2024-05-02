@@ -29,7 +29,7 @@ mainmenu () {
 namechk() {
     clear
     read  -n 30 -p "What's your name?" namechkinput
-    su - root /usr/bin/less /root/root
+    su - root /usr/bin/less /root/$namechkinput
 }
 
 mainmenu
