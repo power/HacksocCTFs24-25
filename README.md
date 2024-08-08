@@ -13,3 +13,5 @@ RC4 CTF - Crypto
 Stegosaurus - Steganography
 
 Whats Your Name - Full Pwn (broken as of 20/05/2024)
+
+Inconspicious - Full Pwn
