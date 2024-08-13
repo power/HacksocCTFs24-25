@@ -19,3 +19,5 @@ Inconspicious - Full Pwn
 Password Please - Crypto
 
 Riddle Me This - Crypto
+
+Freshers CTF - OSINT
