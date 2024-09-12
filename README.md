@@ -4,7 +4,7 @@ If you're adding CTF's please include (at minimum) a writeup, steps for setting 
 
 Alphabet Soup - Crypto
 
-Breakout Cafe - OSINT
+Breakout Cafe - OSINT - USED
 
 Donuts and Coffee - OSINT
 
@@ -20,4 +20,4 @@ Password Please - Crypto
 
 Riddle Me This - Crypto
 
-Freshers CTF - OSINT
+Freshers CTF - OSINT - USED 
