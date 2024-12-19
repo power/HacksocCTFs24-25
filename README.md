@@ -1,1 +1,1 @@
-mhm yes hacksoc ctf go brr
+Hacksoc CTF Writeups/Challenges
